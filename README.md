@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mruegh
-- 👀 I’m interested in MINECRAFT AND CODING
-- 🌱 I’m currently Starting PHP
+- 👋 Hi, I’m @uegh
+- 👀 I’m interested in coding
+- 🌱 I’m currently Starting Lua and python
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me coding ;-;
+- 📫 god who knows
 
 <!---
 mruegh/Profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
